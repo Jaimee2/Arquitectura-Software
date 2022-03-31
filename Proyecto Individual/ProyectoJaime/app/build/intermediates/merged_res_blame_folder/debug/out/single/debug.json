@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/layout_activity_seleccion_fecha.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/layout/activity_seleccion_fecha.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/layout_activity_confirmacion.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/layout/activity_confirmacion.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/layout_listas_row.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/layout/listas_row.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/drawable_ic_horizontal.png.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/drawable/ic_horizontal.png"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/layout_activity_listado_fabricacion.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/layout/activity_listado_fabricacion.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/drawable-v24_ic_marino.png.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/drawable-v24/ic_marino.png"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/layout_activity_presupuesto.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/layout/activity_presupuesto.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/drawable_ic_tick.jpg.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/drawable/ic_tick.jpg"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/drawable_ic_vertical.png.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/drawable/ic_vertical.png"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/layout_activity_configuracion.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/layout/activity_configuracion.xml"
+    },
+    {
+        "merged": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/pizza/AndroidStudioProjects/ProyectoJaime/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

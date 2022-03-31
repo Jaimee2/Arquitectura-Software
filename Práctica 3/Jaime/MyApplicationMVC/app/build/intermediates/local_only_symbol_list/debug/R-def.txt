@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id button2
+id button3
+id list
+id listText
+layout activity_main
+layout row_layout
+layout ventana2
+layout ventana3
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_send
+string edit_message
+string hello_world
+string title_activity_display
+style AppTheme
